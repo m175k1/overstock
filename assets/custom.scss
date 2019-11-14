@@ -1,0 +1,36 @@
+#shopify-section-newsletter{
+	padding-bottom:0px;
+
+	.contact-form{
+		margin-bottom:0px;
+	}
+}
+
+.off__button{
+	opacity: .5;
+	background-color: #b50d0d !important;
+	color: #fff !important;
+	cursor: no-drop;
+}
+
+.tips{
+	color: #b50d0d;
+}
+
+.template-index{
+	.product-card{
+		.product-card__title{
+		    display: block;
+		    white-space: nowrap;
+		    overflow: hidden;
+		    text-overflow: ellipsis;
+		    margin-bottom: 5px;
+		}
+
+		.product-card__image-wrapper{
+			height: 200px;
+			max-height: unset !important;
+		}
+	}
+	
+}
